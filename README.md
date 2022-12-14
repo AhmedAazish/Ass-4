@@ -1,1 +1,1 @@
-# Ass-4
+In this assignment we have arranged meetings and have worked on Testing and Test Automation in Aritifical Intelligence(AI) and Machine Learning(ML). We have learned the importance of testing and test automation in AI and ML. We also came to know about the tips for leveraging AI and ML in testing to make test automation effective.
